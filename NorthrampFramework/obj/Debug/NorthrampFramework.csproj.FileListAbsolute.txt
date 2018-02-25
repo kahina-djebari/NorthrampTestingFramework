@@ -1,0 +1,15 @@
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\NorthrampFramework.dll.config
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\NorthrampFramework.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\NorthrampFramework.pdb
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\Newtonsoft.Json.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\WebDriver.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\WebDriver.Support.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\Newtonsoft.Json.xml
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\WebDriver.xml
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\WebDriver.Support.xml
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.pdb
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.csprojResolveAssemblyReference.cache
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\log4net.dll
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\log4net.xml

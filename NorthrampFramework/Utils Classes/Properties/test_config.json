@@ -1,0 +1,6 @@
+{
+
+  "pathToChromDriver": "../NorthrampFramework/Drivers/Chrome/",
+  "pathToInternetExplorerDriver": "../NorthrampFramework/Drivers/IE/"
+
+}
