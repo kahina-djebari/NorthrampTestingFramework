@@ -61,17 +61,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="FEDPASSPage.cs" />
-    <Compile Include="NorthrampPages.cs" />
-    <Compile Include="PageGenerator.cs" />
-    <Compile Include="PageModel.cs" />
+    <Compile Include="FEDPASSpage.cs" />
+    <Compile Include="PageObjects\FEDPASSPO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils Classes\SeleniumUtils\SeleniumDriver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="Utils Classes\Properties\App.config" />
+    <None Include="Utils Classes\Properties\App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Utils Classes\Properties\test_config.json" />
   </ItemGroup>
   <ItemGroup>

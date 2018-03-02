@@ -1,0 +1,127 @@
+﻿2018-02-26T13:36:08.5979627-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T13:36:08.7955222-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T13:36:08.7965257-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T13:36:08.7975267-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T13:36:20.8747632-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T13:36:20.8747632-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T13:36:28.2286785-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T133608.log
+2018-02-26T13:36:28.2296794-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T13:41:53.2910874-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T13:41:53.3081370-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T13:41:53.3091384-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T13:41:53.3091384-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T13:42:07.3138509-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T13:42:07.3147166-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T13:42:14.0197650-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T134153.log
+2018-02-26T13:42:14.0217707-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T14:58:58.6296884-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T14:58:58.6457310-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T14:58:58.6467346-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T14:58:58.6467346-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T14:59:10.6513916-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T14:59:10.6522497-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T14:59:12.1032764-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T145858.log
+2018-02-26T14:59:12.1047689-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:00:02.1203538-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:00:02.1524400-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:00:02.1534418-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:00:02.1544436-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:00:14.1598388-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:00:14.1606733-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:00:15.5905084-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T150002.log
+2018-02-26T15:00:15.5915107-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:02:18.3670448-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:02:18.3820852-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:02:18.3830891-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:02:18.3830891-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:02:26.3892314-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:02:26.3900634-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:02:27.7835491-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T150218.log
+2018-02-26T15:02:27.7845522-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:06:35.7921127-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:06:35.8216944-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:06:35.8226970-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:06:35.8226970-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:06:49.8299969-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:06:49.8308583-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:06:51.5567890-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T150635.log
+2018-02-26T15:06:51.5618023-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:08:44.8363107-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:08:44.8724101-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:08:44.8734089-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:08:44.8744116-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:08:56.8868263-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:08:56.8876758-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:08:58.1470665-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T150844.log
+2018-02-26T15:08:58.1480688-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:17:08.6086499-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:17:08.6357223-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:17:08.6387303-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:17:08.6397338-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:17:17.6456739-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:17:17.6466701-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:17:24.3500421-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T151708.log
+2018-02-26T15:17:24.3520487-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:23:15.8245957-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:23:15.8466544-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:23:15.8476587-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:23:15.8476587-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:23:24.8526695-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:23:24.8537110-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:23:31.4571038-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T152315.log
+2018-02-26T15:23:31.4581052-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:26:14.3197714-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:26:14.3418313-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:26:14.3428365-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:26:14.3428365-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:26:24.3486486-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-26T15:26:24.3496606-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:26:31.3018885-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-26T152614.log
+2018-02-26T15:26:31.3028899-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-26T15:45:57.5293005-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T15:45:57.5508899-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T15:45:57.5518951-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T15:45:57.5528628-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T15:46:07.5588212-05:00;Thread#10;Info;Discovering target: Default
+2018-02-26T15:46:07.5596493-05:00;Thread#10;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#4: Test - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Test
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: FEDPASSsteps.GivenIOpenChrome() (4.0s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (6.9s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 11.046054 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

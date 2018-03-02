@@ -1,0 +1,49 @@
+﻿2018-02-26T13:36:08.5979627-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-26T13:36:08.7955222-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-26T13:36:08.7965257-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-26T13:36:08.7975267-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-26T13:36:20.8747632-05:00;Thread#12;Info;Discovering target: Default
+2018-02-26T13:36:20.8747632-05:00;Thread#12;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#4: Test - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Test
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: FEDPASSsteps.GivenIOpenChrome() (3.7s)
+Thread#0:B:And I navigate to Google
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToGoogle() (1.8s)
+Thread#0:B:Then I search for Selenium
+Thread#0:T:done: FEDPASSsteps.ThenISearchForSelenium() (0.1s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 5.8039928 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

@@ -1,0 +1,146 @@
+﻿2018-02-28T15:31:58.0345192-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T15:31:58.1704309-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T15:31:58.1714344-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T15:31:58.1724367-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T15:32:08.2603121-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-28T15:32:08.2613139-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T15:32:26.1157689-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-28T153158.log
+2018-02-28T15:32:26.1157689-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-28T16:12:59.4339804-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T16:12:59.4660584-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T16:12:59.4670620-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:12:59.4680740-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T16:13:10.4729461-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-28T16:13:10.4738071-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:13:27.1095733-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-28T161259.log
+2018-02-28T16:13:27.1095733-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-28T16:30:10.3358880-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T16:30:10.3539385-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T16:30:10.3549391-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:30:10.3549391-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T16:30:17.3661015-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-28T16:30:17.3671183-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:30:49.1107360-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-28T163010.log
+2018-02-28T16:30:49.1107360-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-28T16:32:29.8833619-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T16:32:29.9064288-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T16:32:29.9064288-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:32:29.9074302-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T16:32:35.9120535-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-28T16:32:35.9120535-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:32:52.7091488-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-28T163229.log
+2018-02-28T16:32:52.7091488-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-28T16:41:29.2254880-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T16:41:29.2455417-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T16:41:29.2460486-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:41:29.2465487-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T16:41:39.2510308-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-28T16:41:39.2520343-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:42:03.0655341-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-28T164129.log
+2018-02-28T16:42:03.0816668-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-28T16:46:41.7381519-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T16:46:41.7562054-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T16:46:41.7572081-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:46:41.7577094-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T16:46:54.7649227-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-02-28T16:46:54.7659287-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:47:11.9360599-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-02-28T164641.log
+2018-02-28T16:47:11.9360599-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-02-28T16:52:52.1277195-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-02-28T16:52:52.1437613-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-02-28T16:52:52.1447644-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-02-28T16:52:52.1447644-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-02-28T16:53:01.1499334-05:00;Thread#12;Info;Discovering target: Default
+2018-02-28T16:53:01.1509101-05:00;Thread#12;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#6: Create Investment - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Create+Investment
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (3.7s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (1.5s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (1.7s)
+Thread#0:B:And I navigate to "Portfolio" and "Portfolio/Investments"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Portfolio", "Portfolio/Investm...") (0.4s)
+Thread#0:B:Then I create an Investment with title "Test Automation"
+Thread#0:T:error: Cannot locate element with text: 4. Cloud computing has NOT been considered
+Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #6/0 is finished on thread #0 as Failed within 11.115718 seconds
+Thread#0: Test #6/1 is started on thread #0
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (3.6s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (2.4s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (1.0s)
+Thread#0:B:And I navigate to "Portfolio" and "Portfolio/Investments"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Portfolio", "Portfolio/Investm...") (0.4s)
+Thread#0:B:Then I create an Investment with title "Test Automation"
+Thread#0:T:error: Cannot locate element with text: 4. Cloud computing has NOT been considered
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #6/1 is finished on thread #0 as Failed within 11.2443771 seconds
+Thread#0: Test #6/2 is started on thread #0
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (3.6s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (1.5s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (1.4s)
+Thread#0:B:And I navigate to "Portfolio" and "Portfolio/Investments"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Portfolio", "Portfolio/Investm...") (0.5s)
+Thread#0:B:Then I create an Investment with title "Test Automation"
+Thread#0:T:error: Cannot locate element with text: 4. Cloud computing has NOT been considered
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/2 is finished on thread #0 as Failed within 11.3008073 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

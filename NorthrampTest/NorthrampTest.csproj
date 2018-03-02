@@ -89,13 +89,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="FEDPASS.cs" />
-    <Compile Include="FEDPASS.feature.cs">
+    <Compile Include="Features\FEDPASSfeature.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>FEDPASS.feature</DependentUpon>
+      <DependentUpon>FEDPASSfeature.feature</DependentUpon>
     </Compile>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Steps\CommonSteps.cs" />
+    <Compile Include="Steps\FEDPASSsteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -103,9 +103,9 @@
     <None Include="Default.srprofile">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="FEDPASS.feature">
+    <None Include="Features\FEDPASSfeature.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>FEDPASS.feature.cs</LastGenOutput>
+      <LastGenOutput>FEDPASSfeature.feature.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
     <None Include="runtests.cmd" />
@@ -122,6 +122,7 @@
       <Name>NorthrampFramework</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
