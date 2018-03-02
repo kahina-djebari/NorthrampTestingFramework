@@ -1,0 +1,35 @@
+﻿2018-03-02T13:25:28.2748970-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T13:25:28.4093111-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T13:25:28.4105399-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T13:25:28.4105399-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T13:25:36.4902451-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T13:25:36.4912482-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T13:26:10.9931293-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T132528.log
+2018-03-02T13:26:11.0092595-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T13:26:52.5664503-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T13:26:52.5804872-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T13:26:52.5804872-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T13:26:52.5814907-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T13:26:58.5858295-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T13:26:58.5898444-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T13:27:25.9313437-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T132652.log
+2018-03-02T13:27:25.9313437-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T13:29:38.3815633-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T13:29:38.3956369-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T13:29:38.3966370-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T13:29:38.3996121-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T13:29:43.4043558-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T13:29:43.4052390-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T13:30:08.8901913-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T132938.log
+2018-03-02T13:30:08.8901913-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T14:21:41.7339101-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T14:21:41.7549661-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T14:21:41.7560038-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T14:21:41.7569732-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T14:21:54.7628599-05:00;Thread#17;Info;Discovering target: Default
+2018-03-02T14:21:54.7647005-05:00;Thread#17;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: Northra

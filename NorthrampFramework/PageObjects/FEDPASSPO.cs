@@ -47,9 +47,13 @@ namespace NorthrampFramework.PageObjects
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
-        public IWebElement CreateInvestmentBtn()
+        /// <summary>
+        /// Works for all Create buttons: Create Investment, Create Component, .......
+        /// </summary>
+        /// <returns></returns>
+        public IWebElement CreateBtn()
         {
-            string xpath = "//a[contains(@href,'Investments/Create')]";
+            string xpath = "//a[contains(@href,'Create')]";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
@@ -136,6 +140,28 @@ namespace NorthrampFramework.PageObjects
         public IWebElement DescriptionTextArea()
         {
             string xpath = "//label[text()='Description']/parent::div//descendant::textarea";
+            return SeleniumDriver.GetElementByXpath(xpath);
+        }
+
+        public IWebElement RelatedInvestmntSelectField()
+        {
+            string xpath = "//label[text()='Related Investment']/parent::div//descendant::select";
+            return SeleniumDriver.GetElementByXpath(xpath);
+        }
+
+        /// <summary>
+        /// Component Identifier input field
+        /// </summary>
+        /// <returns></returns>
+        public IWebElement CIinputField()
+        {
+            string xpath = "//label[text()='CI']/parent::div//input";
+            return SeleniumDriver.GetElementByXpath(xpath);
+        }
+
+        public IWebElement OrganizationSelectField()
+        {
+            string xpath = "//label[text()='Organization']/parent::div//descendant::select";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 

@@ -42,7 +42,7 @@ namespace NorthrampFramework
         public void CreateInvestment(string Title)
         {
             SeleniumDriver.CheckPageTitle("Investments"); 
-            SeleniumDriver.ClickElement(FEDPASSpo.CreateInvestmentBtn());
+            SeleniumDriver.ClickElement(FEDPASSpo.CreateBtn());
             Thread.Sleep(2000);
             SeleniumDriver.SetValue(FEDPASSpo.TitleInputField(), Title);
             Thread.Sleep(2000);
@@ -57,7 +57,9 @@ namespace NorthrampFramework
             SeleniumDriver.SelectDropDownByText(FEDPASSpo.CloudComputingEvaluationSelectField(), "4: Cloud computing has NOT been considered");
             Thread.Sleep(2000);
             SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
-            Thread.Sleep(3000);        
+            Thread.Sleep(2000);
+            SeleniumDriver.CheckPageTitle(Title);
+            Thread.Sleep(2000);
         }  
 
         public void EditInvestment(string Title)
@@ -73,7 +75,9 @@ namespace NorthrampFramework
             SeleniumDriver.SetValue(FEDPASSpo.DescriptionTextArea(), "This is an automation test execution");
             Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
+            SeleniumDriver.CheckPageTitle(Title);
+            Thread.Sleep(2000);
         }
         
         public void DeleteInvestment(string Title)
@@ -87,7 +91,40 @@ namespace NorthrampFramework
             SeleniumDriver.ClickElement(FEDPASSpo.DeleteInvestmentBtn());
             Thread.Sleep(2000);
             SeleniumDriver.ClickElement(FEDPASSpo.YesBtn());
-            Thread.Sleep(3000);
-        }    
+            Thread.Sleep(2000);
+            SeleniumDriver.CheckPageTitle("Investments");
+            Thread.Sleep(2000);
+        }   
+        
+        public void CreateComponent(string Title)
+        {
+            Random rnd = new Random();
+            int rndCI = rnd.Next(1, 9999);
+
+            SeleniumDriver.CheckPageTitle("Components");
+            SeleniumDriver.ClickElement(FEDPASSpo.CreateBtn());
+            Thread.Sleep(2000);
+            SeleniumDriver.SetValue(FEDPASSpo.TitleInputField(), Title);
+            Thread.Sleep(2000);           
+            SeleniumDriver.SelectDropDownByText(FEDPASSpo.RelatedInvestmntSelectField(), "Content Management");
+            Thread.Sleep(2000);            
+            SeleniumDriver.SetValue(FEDPASSpo.CIinputField(), rndCI.ToString());
+            Thread.Sleep(2000);
+            SeleniumDriver.SetValue(FEDPASSpo.OrganizationSelectField(), );
+
+            //Thread.Sleep(2000);
+            //SeleniumDriver.SelectDropDownByText(FEDPASSpo.InvestmentTypeSelectField(), "01: Major IT Investment");
+            //Thread.Sleep(2000);
+            //SeleniumDriver.SelectDropDownByText(FEDPASSpo.PartOfAgencySelectField(), "Part 1. IT Investments for Mission Delivery");
+            //Thread.Sleep(2000);
+            //SeleniumDriver.ScrollToElement(FEDPASSpo.CloudComputingEvaluationSelectField());
+            //Thread.Sleep(2000);
+            //SeleniumDriver.SelectDropDownByText(FEDPASSpo.CloudComputingEvaluationSelectField(), "4: Cloud computing has NOT been considered");
+            //Thread.Sleep(2000);
+            //SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
+            //Thread.Sleep(2000);
+            //SeleniumDriver.CheckPageTitle(Title);
+            Thread.Sleep(2000);
+        } 
     }
 }

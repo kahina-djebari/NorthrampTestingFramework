@@ -51,6 +51,11 @@ namespace NorthrampTest
             FPpage.DeleteInvestment(Title);
         }
 
+        [Then(@"I create a Component with title ""(.*)""")]
+        public void ThenICreateAComponentWithTitle(string Title)
+        {
+            FPpage.CreateComponent(Title);
+        }
 
     }
 }

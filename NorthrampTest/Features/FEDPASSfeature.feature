@@ -1,5 +1,5 @@
 ﻿Feature: FEDPASS
-	Execute a simple test 
+	Executing tests in FEDPASS 
 
 
 @FEDPASS
@@ -38,3 +38,11 @@ Scenario: Delete Investment
 	Then I login
 	And I navigate to "Portfolio" and "Portfolio/Investments"
 	Then I delete the Investment "Test Automation"
+
+@FEDPASS
+Scenario: Create Component
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Portfolio" and "Portfolio/Components"
+	Then I create a Component with title "Test Automation"

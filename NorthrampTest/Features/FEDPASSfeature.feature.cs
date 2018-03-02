@@ -17,7 +17,7 @@ namespace NorthrampTest.Features
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "2.3.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [TechTalk.SpecRun.FeatureAttribute("FEDPASS", Description="\tExecute a simple test ", SourceFile="Features\\FEDPASSfeature.feature", SourceLine=0)]
+    [TechTalk.SpecRun.FeatureAttribute("FEDPASS", Description="\tExecuting tests in FEDPASS ", SourceFile="Features\\FEDPASSfeature.feature", SourceLine=0)]
     public partial class FEDPASSFeature
     {
         
@@ -30,7 +30,7 @@ namespace NorthrampTest.Features
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "FEDPASS", "\tExecute a simple test ", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "FEDPASS", "\tExecuting tests in FEDPASS ", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -161,6 +161,28 @@ this.ScenarioSetup(scenarioInfo);
  testRunner.And("I navigate to \"Portfolio\" and \"Portfolio/Investments\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 40
  testRunner.Then("I delete the Investment \"Test Automation\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+            this.ScenarioCleanup();
+        }
+        
+        [TechTalk.SpecRun.ScenarioAttribute("Create Component", new string[] {
+                "FEDPASS"}, SourceLine=42)]
+        public virtual void CreateComponent()
+        {
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Create Component", new string[] {
+                        "FEDPASS"});
+#line 43
+this.ScenarioSetup(scenarioInfo);
+#line 44
+ testRunner.Given("I open Chrome", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 45
+ testRunner.And("I navigate to FEDPASS", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line 46
+ testRunner.Then("I login", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 47
+ testRunner.And("I navigate to \"Portfolio\" and \"Portfolio/Components\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line 48
+ testRunner.Then("I create a Component with title \"Test Automation\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }
