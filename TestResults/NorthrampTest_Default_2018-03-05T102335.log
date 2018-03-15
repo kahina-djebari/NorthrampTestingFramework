@@ -1,0 +1,129 @@
+﻿2018-03-05T08:42:15.2828574-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T08:42:15.4187626-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T08:42:15.4197764-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:42:15.4207159-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T08:42:27.5234820-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T08:42:27.5234820-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:42:45.3675298-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T084215.log
+2018-03-05T08:42:45.3675298-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T08:42:51.5240234-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T08:42:51.5391040-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T08:42:51.5420753-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:42:51.5430784-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T08:42:57.5467076-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T08:42:57.5477175-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:43:16.7160529-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T084251.log
+2018-03-05T08:43:16.7170543-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T08:43:35.5767880-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T08:43:35.5938619-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T08:43:35.5948266-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:43:35.5948266-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T08:43:42.5993028-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T08:43:42.6003106-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:44:24.3391270-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T084335.log
+2018-03-05T08:44:24.3391270-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T08:44:55.4782016-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T08:44:55.4942468-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T08:44:55.4948514-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:44:55.4958630-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T08:45:03.4997862-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T08:45:03.5002299-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:45:33.8897455-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T084455.log
+2018-03-05T08:45:33.8897455-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T08:45:41.7437696-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T08:45:41.7569997-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T08:45:41.7580023-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:45:41.7592418-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T08:45:54.7637828-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T08:45:54.7646494-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:46:19.5279560-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T084541.log
+2018-03-05T08:46:19.5279560-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T08:53:07.9358097-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T08:53:07.9604066-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T08:53:07.9604066-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:53:07.9613790-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T08:53:18.9672891-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T08:53:18.9682952-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T08:53:48.0791065-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T085307.log
+2018-03-05T08:53:48.0791065-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T10:23:35.9471163-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T10:23:35.9651481-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T10:23:35.9661512-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T10:23:35.9671522-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T10:23:40.9801681-05:00;Thread#22;Info;Discovering target: Default
+2018-03-05T10:23:40.9811908-05:00;Thread#22;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#9: Create Component - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Create+Component
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #9 from normal test queue 
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Appdomain Disposed
+test thread #0 error: System.IO.FileNotFoundException: Could not load file or assembly 'file:///C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll' or one of its dependencies. The system cannot find the file specified.
+File name: 'file:///C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile, Evidence securityEvidence)
+   at System.Activator.CreateInstanceFromInternal(String assemblyFile, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityInfo)
+   at System.Activator.CreateInstanceFrom(String assemblyFile, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityInfo)
+   at System.AppDomain.CreateInstanceFrom(String assemblyFile, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at System.AppDomain.CreateInstanceFromAndUnwrap(String assemblyName, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at System.AppDomain.CreateInstanceFromAndUnwrap(String assemblyName, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at TechTalk.SpecRun.Framework.Remoting.AppDomainReference.CreateObjectOfTypeFromAssembly(String assemblyName, String typeFullName)
+   at TechTalk.SpecRun.Framework.Remoting.AppDomainReference.CreateObjectOfType[T](String assemblyName, String typeFullName)
+   at TechTalk.SpecRun.Framework.InProcAppDomainTestAssemblyExecutorHost.Initialize(Int32 threadId, ITestExecutionManager executionManager, IAssemblyReference testAssembly, ITestLogger logger, String testAssemblyFullPath, String testAssemblyConfigFilePath, TestExecutionConfiguration testExecutionConfiguration)
+   at TechTalk.SpecRun.Framework.TestThread.InitializeTestThreadExecutor(IAssemblyReference testAssembly, ExecutionModelSettings executionModelSettings, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.GetThreadExecutorFor(TestItem testItem)
+   at TechTalk.SpecRun.Framework.TestThread.Run(ITestExecutionManager executionManagerForRun)
+   at TechTalk.SpecRun.Framework.AsyncTestThreadRunner.RunSync(TestExecutionManager executionManager)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+test thread error: TechTalk.SpecRun.Framework.SpecRunException: At least one test thread aborted. ---> System.IO.FileNotFoundException: Could not load file or assembly 'file:///C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll' or one of its dependencies. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile, Evidence securityEvidence)
+   at System.Activator.CreateInstanceFromInternal(String assemblyFile, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityInfo)
+   at System.Activator.CreateInstanceFrom(String assemblyFile, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityInfo)
+   at System.AppDomain.CreateInstanceFrom(String assemblyFile, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at System.AppDomain.CreateInstanceFromAndUnwrap(String assemblyName, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at System.AppDomain.CreateInstanceFromAndUnwrap(String assemblyName, String typeName, Boolean ignoreCase, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, Evidence securityAttributes)
+   at TechTalk.SpecRun.Framework.Remoting.AppDomainReference.CreateObjectOfTypeFromAssembly(String assemblyName, String typeFullName)
+   at TechTalk.SpecRun.Framework.Remoting.AppDomainReference.CreateObjectOfType[T](String assemblyName, String typeFullName)
+   at TechTalk.SpecRun.Framework.InProcAppDomainTestAssemblyExecutorHost.Initialize(Int32 threadId, ITestExecutionManager executionManager, IAssemblyReference testAssembly, ITestLogger logger, String testAssemblyFullPath, String testAssemblyConfigFilePath, TestExecutionConfiguration testExecutionConfiguration)
+   at TechTalk.SpecRun.Framework.TestThread.InitializeTestThreadExecutor(IAssemblyReference testAssembly, ExecutionModelSettings executionModelSettings, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.GetThreadExecutorFor(TestItem testItem)
+   at TechTalk.SpecRun.Framework.TestThread.Run(ITestExecutionManager executionManagerForRun)
+   at TechTalk.SpecRun.Framework.AsyncTestThreadRunner.RunSync(TestExecutionManager executionManager)
+   --- End of inner exception stack trace ---
+Thread#-1: Test #9/0 is started on thread #-1
+Thread#-1: Test #9/0 is finished on thread #-1 as Skipped within 0.0010095 seconds
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 1
+Failed: 0

@@ -1,0 +1,44 @@
+﻿2018-03-05T16:11:35.8979183-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T16:11:36.0433288-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T16:11:36.0443319-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T16:11:36.0443319-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T16:11:48.1166878-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T16:11:48.1166878-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T16:12:35.9969156-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T161136.log
+2018-03-05T16:12:35.9979187-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T16:12:44.4502843-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T16:12:44.4633207-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T16:12:44.4643238-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T16:12:44.4653380-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T16:12:58.4706658-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-05T16:12:58.4726733-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T16:13:33.7234163-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-05T161244.log
+2018-03-05T16:13:33.7244168-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-05T16:13:38.6514782-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-05T16:13:38.6715695-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-05T16:13:38.6725350-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-05T16:13:38.6725350-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-05T16:13:46.6780625-05:00;Thread#4;Info;Discovering target: Default
+2018-03-05T16:13:46.6790681-05:00;Thread#4;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#8: Delete Investment - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Delete+Investment
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #8 from normal test queue 
+Thread#0:Scheduler: considering testitem #8 for thread 0
+Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #8 for thread 0
+Thread#0:Scheduler: Test #8 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #8/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0

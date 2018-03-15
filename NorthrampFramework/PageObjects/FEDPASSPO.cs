@@ -1,5 +1,6 @@
 ﻿using NorthrampFramework.Utils_Classes.SeleniumUtils;
 using OpenQA.Selenium;
+using System.Collections.Generic;
 
 namespace NorthrampFramework.PageObjects
 {
@@ -69,25 +70,25 @@ namespace NorthrampFramework.PageObjects
 
         public IWebElement ITDBstatusSelectField()
         {        
-            string xpath = "//label[text() ='ITDB Status']/parent::div//select";
+            string xpath = "//label[text() ='ITDB Status']/parent::div/child::div/child::select";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
         public IWebElement InvestmentTypeSelectField()
         {
-            string xpath = "//label[text() ='Investment Type']/parent::div//select";
+            string xpath = "//label[text() ='Investment Type']/parent::div/child::div/child::select";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
         public IWebElement PartOfAgencySelectField()
         {
-            string xpath = "//label[text() ='Part of Agency IT Portfolio Summary']/parent::div//select";
+            string xpath = "//label[text() ='Part of Agency IT Portfolio Summary']/parent::div/child::div/child::select";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
         public IWebElement CloudComputingEvaluationSelectField()
         {
-            string xpath = "//label[text() ='Cloud Computing Alternatives Evaluation']/parent::div//select";
+            string xpath = "//label[text() ='Cloud Computing Alternatives Evaluation']/parent::div/child::div/child::select";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
@@ -97,7 +98,7 @@ namespace NorthrampFramework.PageObjects
         /// <returns></returns>
         public IWebElement SaveBtn()
         {
-            string xpath = "//a[text()='Save']";
+            string xpath = "//i/parent::a[text()='Save']";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
@@ -131,21 +132,30 @@ namespace NorthrampFramework.PageObjects
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
-        public IWebElement SelectedInvestment(string Title)
+        /// <summary>
+        /// Works for Investments, Components, Budget Items
+        /// </summary>
+        /// <param name="Title"></param>
+        /// <returns></returns>
+        public IWebElement SelectedItem(string Title)
         {
             string xpath = "//a[text()='" + Title + "']";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
+        /// <summary>
+        /// On the 'Edit Investment' page
+        /// </summary>
+        /// <returns></returns>
         public IWebElement DescriptionTextArea()
         {
             string xpath = "//label[text()='Description']/parent::div//descendant::textarea";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
-        public IWebElement RelatedInvestmntSelectField()
+        public IWebElement RelatedInvestmentSelectField()
         {
-            string xpath = "//label[text()='Related Investment']/parent::div//descendant::select";
+            string xpath = "//label[text()='Related Investment']/parent::div/descendant::div//select";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 
@@ -161,7 +171,29 @@ namespace NorthrampFramework.PageObjects
 
         public IWebElement OrganizationSelectField()
         {
-            string xpath = "//label[text()='Organization']/parent::div//descendant::select";
+            string xpath = "//label[text()='Organization']/parent::div/descendant::div//select";
+            return SeleniumDriver.GetElementByXpath(xpath);
+        }
+
+        public IWebElement EditComponentBtn()
+        {
+            string xpath = "//a[text()='Edit Component']";
+            return SeleniumDriver.GetElementByXpath(xpath);
+        }
+
+        /// <summary>
+        /// On the 'Edit Component' page
+        /// </summary>
+        /// <returns></returns>
+        public IWebElement SummaryTextArea()
+        {
+            string xpath = "//label[text()='Summary']/parent::div//descendant::textarea";
+            return SeleniumDriver.GetElementByXpath(xpath);
+        }
+
+        public IWebElement DeleteComponentBtn()
+        {
+            string xpath = "//a[text()='Delete Component']";
             return SeleniumDriver.GetElementByXpath(xpath);
         }
 

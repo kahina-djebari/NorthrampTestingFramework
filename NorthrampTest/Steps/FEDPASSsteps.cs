@@ -23,7 +23,7 @@ namespace NorthrampTest
         [Then(@"I login")]
         public void ThenILogin()
         {
-            FPpage.Login("kdjebari","Nina@usa2016");
+            FPpage.Login("kdjebari","kd@2016");
         }
 
         [Then(@"I navigate to ""(.*)"" and ""(.*)""")]
@@ -56,6 +56,19 @@ namespace NorthrampTest
         {
             FPpage.CreateComponent(Title);
         }
+
+        [Then(@"I edit the component ""(.*)""")]
+        public void ThenIEditTheComponent(string Title)
+        {
+            FPpage.EditComponent(Title);
+        }
+
+        [Then(@"I delete the Component ""(.*)""")]
+        public void ThenIDeleteTheComponent(string Title)
+        {
+            FPpage.DeleteComponent(Title);
+        }
+
 
     }
 }

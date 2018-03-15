@@ -1,0 +1,12 @@
+m.vs/NorthrampFramework/v14
+mNorthrampFramework
+mNorthrampFramework/PageObjects
+mNorthrampFramework/Utils Classes/SeleniumUtils
+mNorthrampFramework/bin/Debug
+mNorthrampFramework/obj/Debug
+mNorthrampTest
+mNorthrampTest/Features
+mNorthrampTest/Steps
+mNorthrampTest/bin/Debug
+mNorthrampTest/obj/Debug
+mNorthrampTest/obj/Debug/TempPE

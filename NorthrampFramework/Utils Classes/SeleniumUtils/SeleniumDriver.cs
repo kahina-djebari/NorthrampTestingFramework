@@ -362,19 +362,27 @@ namespace NorthrampFramework.Utils_Classes.SeleniumUtils
             new SelectElement(element).SelectByText(text);
         }
 
+
+        //public static void RandomSelectDropDownByIndex(IWebElement element)
+        //{                 
+        //    Random rdm = new Random(); 
+        //    new SelectElement(element).SelectByIndex(rdm.Next(0,5));
+        //}
+
         /// <summary>
-        /// Select a random item in a drop element by index 
+        /// Select a random item in a drop down list by index 
         /// </summary>
         /// <param name="element"></param>
         /// <param name="text"></param>
-        public static void RandomSelectDropDownByText(IWebElement element, string text)
+        public static void RandomSelectDropDownByIndex(IWebElement element)
         {
-            Random r = new Random();        
-            Random rnd = new Random(); // this can be global
-            SelectElement s = new SelectElement(ddlWebElement);
-            int itemCount = s.Items.Count(); // get the count of elements in ddlWebElement
-            s.SelectByIndex(rnd.Next(0, itemCount));// will give you random selections
+            Random rdm = new Random();
+            SelectElement Select = new SelectElement(element);         
+            IList<IWebElement> list = Select.Options;
+            int NumberOfOptions = list.Count;
+            Select.SelectByIndex(rdm.Next(0, NumberOfOptions-1));
         }
+
 
         ///<summary>
         ///Scroll the current windows to a certain element

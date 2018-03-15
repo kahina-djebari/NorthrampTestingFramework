@@ -1,0 +1,93 @@
+﻿2018-03-02T17:38:30.7069355-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T17:38:30.8543365-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T17:38:30.8583629-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:38:30.8583629-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T17:38:41.9422025-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T17:38:41.9432141-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:39:31.4751424-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T173830.log
+2018-03-02T17:39:31.4761101-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T17:43:24.9991143-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T17:43:25.0191992-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T17:43:25.0201703-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:43:25.0211729-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T17:43:38.0255906-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T17:43:38.0266006-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:44:12.6299166-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T174325.log
+2018-03-02T17:44:12.6309206-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T17:44:24.7296947-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T17:44:24.7432427-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T17:44:24.7442458-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:44:24.7442458-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T17:44:34.7489587-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T17:44:34.7499695-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:45:02.4125278-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T174424.log
+2018-03-02T17:45:02.4135292-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T17:45:19.7527650-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T17:45:19.7708139-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T17:45:19.7718200-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:45:19.7718200-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T17:45:25.7768312-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-02T17:45:25.7768312-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:45:50.5092856-05:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-02T174519.log
+2018-03-02T17:45:50.5102865-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-02T17:46:40.5934221-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-02T17:46:40.6074923-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-02T17:46:40.6084975-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-02T17:46:40.6084975-05:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-02T17:46:45.6141931-05:00;Thread#27;Info;Discovering target: Default
+2018-03-02T17:46:45.6221773-05:00;Thread#27;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#9: Create Component - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Create+Component
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #9 from normal test queue 
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #9/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (3.9s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (1.8s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (3.1s)
+Thread#0:B:And I navigate to "Portfolio" and "Portfolio/Components"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Portfolio", "Portfolio/Components") (3.4s)
+Thread#0:B:Then I create a Component with title "Test Automation"
+Thread#0:T:error: Assert.AreEqual failed. Expected:<Test Automation>. Actual:<Create Component>. 
+Thread#0:TestItem#9:Scheduler: reschedule tests for testitem #9
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #9
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #9/0 is finished on thread #0 as Failed within 26.278717 seconds
+Thread#0: Test #9/1 is started on thread #0
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (3.8s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (1.5s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (3.1s)
+Thread#0:B:And I navigate to "Portfolio" and "Portfolio/Components"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Portfolio", "Portfolio/Components") (3.3s)
+Thread#0:B:Then I create a Component with title "Test Automation"
+Thread#0:T:error: Assert.AreEqual failed. Expected:<Test Automation>. Actual:<Crea

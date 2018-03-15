@@ -46,3 +46,19 @@ Scenario: Create Component
 	Then I login
 	And I navigate to "Portfolio" and "Portfolio/Components"
 	Then I create a Component with title "Test Automation"
+
+@FEDPASS
+Scenario: Edit Component
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Portfolio" and "Portfolio/Components"
+	Then I edit the component "Test Automation"
+
+@FEDPASS
+Scenario: Delete Component
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Portfolio" and "Portfolio/Components"
+	Then I delete the Component "Test Automation"
