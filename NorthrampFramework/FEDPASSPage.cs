@@ -44,113 +44,129 @@ namespace NorthrampFramework
         {
             SeleniumDriver.CheckPageTitle("Investments"); 
             SeleniumDriver.ClickElement(FEDPASSpo.CreateBtn());
-            Thread.Sleep(2000);
-            
-            SeleniumDriver.SetValue(FEDPASSpo.TitleInputField(), Title);
-            Thread.Sleep(2000);
-            //SeleniumDriver.ScrollToElement(FEDPASSpo.PartOfAgencySelectField());
-            //Thread.Sleep(2000);          
-            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.ITDBstatusSelectField()); //, "Exclude from the ITDB");
-            Thread.Sleep(2000);           
-            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.InvestmentTypeSelectField()); //, "01: Major IT Investment");
-            Thread.Sleep(2000);
-            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.PartOfAgencySelectField()); //, "Part 1. IT Investments for Mission Delivery");
-            Thread.Sleep(2000);
-            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.CloudComputingEvaluationSelectField()); //, "4: Cloud computing has NOT been considered");
-            Thread.Sleep(2000);
+            SeleniumDriver.WaitForDOMready();                     
+            SeleniumDriver.SetValue(FEDPASSpo.TitleInputField(), Title);         
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.ITDBstatusSelectField());           
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.InvestmentTypeSelectField());
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.PartOfAgencySelectField());
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.CloudComputingEvaluationSelectField());
             SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
             Thread.Sleep(2000);
             SeleniumDriver.CheckPageTitle(Title);
-            Thread.Sleep(2000);
         }  
 
         public void EditInvestment(string Title)
         {
             SeleniumDriver.SetValue(FEDPASSpo.FilterTitleInputField(), Title);
-            Thread.Sleep(2000);
             FEDPASSpo.FilterTitleInputField().SendKeys(Keys.Enter);
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SelectedItem(Title));
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.EditInvestmentBtn());
-            Thread.Sleep(1000);
             SeleniumDriver.SetValue(FEDPASSpo.DescriptionTextArea(), "This is an automation test execution");
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
             Thread.Sleep(2000);
             SeleniumDriver.CheckPageTitle(Title);
-            Thread.Sleep(2000);
         }
         
         public void DeleteInvestment(string Title)
         {
             SeleniumDriver.SetValue(FEDPASSpo.FilterTitleInputField(), Title);
-            Thread.Sleep(2000);
             FEDPASSpo.FilterTitleInputField().SendKeys(Keys.Enter);
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SelectedItem(Title));
             Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.DeleteInvestmentBtn());
-            Thread.Sleep(2000);
             SeleniumDriver.ClickElement(FEDPASSpo.YesBtn());
-            Thread.Sleep(2000);
+            Thread.Sleep(1000);
             SeleniumDriver.CheckPageTitle("Investments");
-            Thread.Sleep(2000);
         }   
         
         public void CreateComponent(string Title)
         {      
-            int rdmCI = rdm.Next(1, 9999);
+            int rdmCI = rdm.Next(1, 99999);
 
             SeleniumDriver.CheckPageTitle("Components");
             SeleniumDriver.ClickElement(FEDPASSpo.CreateBtn());
-            Thread.Sleep(2000);
+            Thread.Sleep(1000);
             SeleniumDriver.SetValue(FEDPASSpo.TitleInputField(), Title);
-            Thread.Sleep(2000);
             SeleniumDriver.SetValue(FEDPASSpo.CIinputField(), rdmCI.ToString());
-            Thread.Sleep(2000);
-            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.OrganizationSelectField());           
-            Thread.Sleep(2000);                        
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.OrganizationSelectField());                                  
             SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.RelatedInvestmentSelectField());
-            Thread.Sleep(2000);
             SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
             Thread.Sleep(2000);
             SeleniumDriver.CheckPageTitle(Title);
-            Thread.Sleep(2000);
         }
 
         public void EditComponent(string Title)
         {
             SeleniumDriver.SetValue(FEDPASSpo.FilterTitleInputField(), Title);
-            Thread.Sleep(2000);
             FEDPASSpo.FilterTitleInputField().SendKeys(Keys.Enter);
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SelectedItem(Title));
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.EditComponentBtn());
-            Thread.Sleep(1000);
             SeleniumDriver.SetValue(FEDPASSpo.SummaryTextArea(), "This is an automation test execution");
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
             Thread.Sleep(2000);
             SeleniumDriver.CheckPageTitle(Title);
-            Thread.Sleep(2000);
         }
 
         public void DeleteComponent(string Title)
         {
             SeleniumDriver.SetValue(FEDPASSpo.FilterTitleInputField(), Title);
-            Thread.Sleep(2000);
             FEDPASSpo.FilterTitleInputField().SendKeys(Keys.Enter);
-            Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.SelectedItem(Title));
             Thread.Sleep(1000);
             SeleniumDriver.ClickElement(FEDPASSpo.DeleteComponentBtn());
+            SeleniumDriver.ClickElement(FEDPASSpo.YesBtn());
+            Thread.Sleep(1000);
+            SeleniumDriver.CheckPageTitle("Components");
+        }
+
+        public void CreateBudgetItem(String Title)
+        {
+            SeleniumDriver.CheckPageTitle("Budget Items");
+            SeleniumDriver.ClickElement(FEDPASSpo.CreateBtn());
+            Thread.Sleep(1000);
+            SeleniumDriver.SetValue(FEDPASSpo.TitleInputField(), Title);          
+            SeleniumDriver.SelectDropDownByIndex(FEDPASSpo.RelatedInvestmentSelectField(), 2);
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.RelatedComponentSelectField());
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.FundingTypeSelectField());
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.ITDBstatusSelectField());
+            SeleniumDriver.SetValue(FEDPASSpo.ExpectedOutcomesTextArea(), "Test");
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.SDLCMethodologySelectField());
+            SeleniumDriver.RandomSelectDropDownByIndex(FEDPASSpo.CloudServiceSelectField());
+            SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
             Thread.Sleep(2000);
+            SeleniumDriver.CheckPageTitle(Title);
+        }
+
+        public void EditBudgetItem(String Title)
+        {
+            SeleniumDriver.SetValue(FEDPASSpo.FilterTitleInputField(), Title);
+            FEDPASSpo.FilterTitleInputField().SendKeys(Keys.Enter);
+            SeleniumDriver.ClickElement(FEDPASSpo.SelectedItem(Title));
+            SeleniumDriver.ClickElement(FEDPASSpo.EditBudgetItemBtn());
+            SeleniumDriver.SetValue(FEDPASSpo.BIDescriptionTextArea(), "This is an automation test execution");
+            SeleniumDriver.ClickElement(FEDPASSpo.SaveBtn());
+            Thread.Sleep(2000);
+            SeleniumDriver.CheckPageTitle(Title);
+        }
+
+        public void DeleteBudgetItem(string Title)
+        {
+            SeleniumDriver.SetValue(FEDPASSpo.FilterTitleInputField(), Title);
+            FEDPASSpo.FilterTitleInputField().SendKeys(Keys.Enter);
+            SeleniumDriver.ClickElement(FEDPASSpo.SelectedItem(Title));
+            Thread.Sleep(1000);
+            SeleniumDriver.ClickElement(FEDPASSpo.DeleteBudgetItemBtn());
             SeleniumDriver.ClickElement(FEDPASSpo.YesBtn());
             Thread.Sleep(2000);
-            SeleniumDriver.CheckPageTitle("Components");
-            Thread.Sleep(2000);
+            SeleniumDriver.CheckPageTitle("Budget Items");
+        }
+
+        public void CreateAssignment()
+        {
+            SeleniumDriver.ClickElement(FEDPASSpo.CreateAssignmentBtn());
+            Thread.Sleep(1000);
+            SeleniumDriver.SetValue(FEDPASSpo.AmountInputField(), "5000");
+         
         }
     }
 }

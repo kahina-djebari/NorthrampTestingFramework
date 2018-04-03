@@ -1,0 +1,31 @@
+﻿2018-03-29T13:57:09.2263336-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T13:57:09.5607241-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T13:57:09.5617272-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T13:57:09.5627290-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T13:57:23.6838361-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T13:57:23.6848119-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T13:57:45.8089450-04:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-29T135709.log
+2018-03-29T13:57:45.8089450-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T13:59:25.6346611-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T13:59:25.6868518-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T13:59:25.6878562-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T13:59:25.6878562-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T13:59:36.6947528-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T13:59:36.6956027-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T13:59:59.3288901-04:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-29T135925.log
+2018-03-29T13:59:59.3288901-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T14:00:57.3982917-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T14:00:57.4424184-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T14:00:57.4424184-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:00:57.4434211-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T14:01:02.4489810-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T14:01:02.4499875-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:01:54.6766340-04:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-29T140057.log
+2018-03-29T14:01:54.6766340-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T14:02:30.7108492-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T14:02:30.7514956-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T14:02:30.7519995-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:02:30.7525000-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T14:02:42.7587152-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T14:02:42.7597213-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:03:04.3675146-04:00;VSTestExecutionThread;Info;Log file:

@@ -1,0 +1,66 @@
+﻿2018-03-29T14:04:21.3417145-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T14:04:21.5031868-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T14:04:21.5034693-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:04:21.5046900-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T14:04:26.5745506-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T14:04:26.5755315-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:04:47.7282086-04:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-29T140421.log
+2018-03-29T14:04:47.7282086-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T14:05:43.7410282-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T14:05:43.7881578-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T14:05:43.7891617-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:05:43.7901636-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T14:05:51.7957256-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-03-29T14:05:51.7967325-04:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:06:12.9657436-04:00;VSTestExecutionThread;Info;Log file: file:///C:\NorthrampTestingFramework\NorthrampFramework\TestResults\NorthrampTest_Default_2018-03-29T140543.log
+2018-03-29T14:06:12.9657436-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-03-29T14:06:36.0288361-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T14:06:36.0679452-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T14:06:36.0689483-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T14:06:36.0689483-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T14:06:43.0756512-04:00;Thread#12;Info;Discovering target: Default
+2018-03-29T14:06:43.0761534-04:00;Thread#12;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#9: Create Component - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Create+Component
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #9 from normal test queue 
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #9/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (4.8s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (1.9s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (3.0s)
+Thread#0:B:And I navigate to "Portfolio" and "Portfolio/Components"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Portfolio", "Portfolio/Components") (3.4s)
+Thread#0:B:Then I create a Component with title "Test Automation"
+Thread#0:T:error: Assert.AreEqual failed. Expected:<Test Automation>. Actual:<Create Component>. 
+Cancelling because configured number of failures reached
+Thread#0: Test #9/0 is finished on thread #0 as Failed within 18.6982828 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

@@ -10,6 +10,6 @@ C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\log
 C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\Newtonsoft.Json.xml
 C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\WebDriver.xml
 C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\bin\Debug\WebDriver.Support.xml
-C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.csprojResolveAssemblyReference.cache
 C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.dll
 C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.pdb
+C:\NorthrampTestingFramework\NorthrampFramework\NorthrampFramework\obj\Debug\NorthrampFramework.csprojResolveAssemblyReference.cache

@@ -69,6 +69,30 @@ namespace NorthrampTest
             FPpage.DeleteComponent(Title);
         }
 
+        [Then(@"I create a Budget Item with title ""(.*)""")]
+        public void ThenICreateABudgetItemWithTitle(string Title)
+        {
+            FPpage.CreateBudgetItem(Title);
+        }
+
+        [Then(@"I edit the Budget Item ""(.*)""")]
+        public void ThenIEditTheBudgetItem(string Title)
+        {
+            FPpage.EditBudgetItem(Title);
+        }
+
+        [Then(@"I delete the Budget Item ""(.*)""")]
+        public void ThenIDeleteTheBudgetItem(string Title)
+        {
+            FPpage.DeleteBudgetItem(Title);
+        }
+
+        [Then(@"I  create a Funding Assignment")]
+        public void ThenICreateAFundingAssignment()
+        {
+            FPpage.CreateAssignment();
+        }
+
 
     }
 }

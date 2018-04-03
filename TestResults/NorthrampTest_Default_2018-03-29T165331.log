@@ -1,0 +1,52 @@
+﻿2018-03-29T16:53:31.3425584-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-03-29T16:53:31.5240491-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-03-29T16:53:31.5245509-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+2018-03-29T16:53:31.5250514-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-03-29T16:53:37.6100284-04:00;Thread#12;Info;Discovering target: Default
+2018-03-29T16:53:37.6110311-04:00;Thread#12;Info;Discovering tests from assembly: C:\NorthrampTestingFramework\NorthrampFramework\NorthrampTest\bin\Debug\NorthrampTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NorthrampTest/Default - 
+#1: Default - 
+#2: NorthrampTest - 
+#3: FEDPASS - 
+#15: Create Funding Assignment - TestAssembly:NorthrampTest/Feature:FEDPASS/Scenario:Create+Funding+Assignment
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #15 from normal test queue 
+Thread#0:Scheduler: considering testitem #15 for thread 0
+Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #15 for thread 0
+Thread#0:Scheduler: Test #15 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NorthrampTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Kahina\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #15/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I open Chrome
+Thread#0:T:-------->  Opening Chrome Driver
+Thread#0:T:done: CommonSteps.GivenIOpenChrome() (5.1s)
+Thread#0:B:And I navigate to FEDPASS
+Thread#0:T:done: FEDPASSsteps.GivenINavigateToFEDPASS() (2.0s)
+Thread#0:B:Then I login
+Thread#0:T:done: FEDPASSsteps.ThenILogin() (2.9s)
+Thread#0:B:And I navigate to "Resources" and "Resources/FundingAssignments"
+Thread#0:T:done: FEDPASSsteps.ThenINavigateToAnd("Resources", "Resources/Funding...") (3.3s)
+Thread#0:B:Then I  create a Funding Assignment
+Thread#0:T:error: element not visible
+Thread#0:T:  (Session info: chrome=65.0.3325.181)
+Thread#0:T:  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64)
+Cancelling because configured number of failures reached
+Thread#0: Test #15/0 is finished on thread #0 as Failed within 16.2508487 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

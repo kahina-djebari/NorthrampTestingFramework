@@ -62,3 +62,35 @@ Scenario: Delete Component
 	Then I login
 	And I navigate to "Portfolio" and "Portfolio/Components"
 	Then I delete the Component "Test Automation"
+
+@FEDPASS
+Scenario: Create Budget Item
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Portfolio" and "Portfolio/BudgetItems"
+	Then I create a Budget Item with title "Test Automation"
+
+@FEDPASS
+Scenario: Edit Budget Item
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Portfolio" and "Portfolio/BudgetItems"
+	Then I edit the Budget Item "Test Automation"
+
+@FEDPASS
+Scenario: Delete Budget Item
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Portfolio" and "Portfolio/BudgetItems"
+	Then I delete the Budget Item "Test Automation"
+
+@FEDPASS
+Scenario: Create Funding Assignment
+	Given I open Chrome 
+	And I navigate to FEDPASS
+	Then I login
+	And I navigate to "Resources" and "Resources/FundingAssignments"
+	Then I  create a Funding Assignment 

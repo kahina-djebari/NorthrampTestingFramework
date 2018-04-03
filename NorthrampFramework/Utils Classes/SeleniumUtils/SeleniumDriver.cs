@@ -347,9 +347,10 @@ namespace NorthrampFramework.Utils_Classes.SeleniumUtils
         /// </summary>
         /// <param name="value"></param>
         /// <param name="element"></param>
-        public static void SelectDropDownByIndex(IWebElement element, int value)
+        public static void SelectDropDownByIndex(IWebElement element, int index)
         {
-            new SelectElement(element).SelectByIndex(value);
+            Thread.Sleep(2000);
+            new SelectElement(element).SelectByIndex(index);
         }
 
         ///<summary>
@@ -380,7 +381,7 @@ namespace NorthrampFramework.Utils_Classes.SeleniumUtils
             SelectElement Select = new SelectElement(element);         
             IList<IWebElement> list = Select.Options;
             int NumberOfOptions = list.Count;
-            Select.SelectByIndex(rdm.Next(0, NumberOfOptions-1));
+            Select.SelectByIndex(rdm.Next(1, NumberOfOptions));
         }
 
 
